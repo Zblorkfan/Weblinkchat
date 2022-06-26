@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html> 
+
+<head>
+
+  <title>Weblinkchat</title> 
+
+      <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  
+<meta charset="utf-8"/>
+  <link rel="icon" href="chat/images/weblink(1).ico">
+
+
+<style>
+
+p {
+  color : black;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+body { 
+  height: 100%;
+  margin: 0;
+  font-family: Courier new;
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+  background-color: violet;
+}
+html, body {
+width: 100%;
+height: 100%;
+margin:0;
+padding:0;
+
+
+}
+
+#wrap {
+  width: 100%;
+  height: 50px;
+  z-index: 99;
+  position: fixed;
+  background-color: blueviolet;
+}
+.navbar {
+  height: 50px;
+  padding: 0;
+  margin: 0;
+  float: left;
+  position: sticky;
+}
+.navbar li {
+  height: auto;
+  width: 135.8px;
+  float: left;
+  text-align: center;
+  list-style: none;
+  font: normal bold 13px/1em Arial, Verdana, Helvetica;
+  padding: 0;
+  background-color: blueviolet;
+}
+.navbar a {
+  padding: 18px 0;
+  text-decoration: none;
+  color: white;
+  display: block;
+}
+.navbar li ul {
+  display: none;
+  height: auto;
+  margin: 0;
+  padding: 0;
+}
+.navbar li:hover ul {
+  display: block;
+}
+
+.navbar li ul li {
+  background-color: blueviolet;
+}
+a:hover{
+    color: pink;
+}
+
+
+  
+.wrapper{
+  position: absolute;
+  bottom: 110px;
+  left: 50px;
+  max-width: 365px;
+  background: #fff;
+  padding: 25px 25px 30px 25px;
+  border-radius: 15px;
+  box-shadow: 1px 7px 14px -5px rgba(0,0,0,0.15);
+  text-align: center;
+}
+.wrapper.hide{
+  opacity: 0;
+  pointer-events: none;
+  transform: scale(0.8);
+  transition: all 0.3s ease;
+}
+::selection{
+  color: #fff;
+  background: #FCBA7F;
+}
+.wrapper img{
+  max-width: 90px;
+}
+.content header{
+  font-size: 25px;
+  font-weight: 600;
+}
+.content{
+  margin-top: 10px;
+}
+.content p{
+  color: red;
+  margin: 5px 0 20px 0;
+}
+.content .buttons{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.buttons button{
+  padding: 10px 20px;
+  border: none;
+  outline: none;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 5px;
+  background: orangered;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+.buttons button:hover{
+  transform: scale(1);
+}
+.buttons .item{
+  margin: 0 10px;
+}
+.buttons a{
+  color: blanchedalmond;
+}
+
+
+body div h1 {
+  color: #0dd9e3 !important;
+  text-shadow: 2px 2px #007e9b !important;
+}
+
+div.column2 div {
+  border: 2px grey solid;
+}
+
+div.column2 div#membres_connectes a {
+  background-color:inherit !important;
+}
+
+div.column2 div#change a {
+  background-color:inherit !important;
+  color: #0028ff !important;
+}
+
+div#cadre_chat p {
+  background-color: #dbdbdb !important;
+}
+
+div#cadre_chat a {
+  color: #0000ee !important;
+}
+
+span#deconnexion h1 {
+  color: #0dd9e3 !important;
+  text-shadow: 2px 2px #007e9b !important;
+}
+
+div.column2 a {
+  background-color: #0028ff !important;
+}
+
+#membres_connectes {
+ border: none !important;
+}
+
+#change {
+  border: 2px grey solid;
+}
+
+#cadre_chat {
+  border: 2px #dbdbdb solid !important;;
+}
+
+.column1 {
+  background-color: inherit !important;;
+}
+
+.column2 {
+  background-color: inherit !important;
+}
+
+#title {
+  color: #0dd9e3;
+  text-shadow: 2px 2px #007e9b;
+}
+
+p {
+  color : black;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+body { 
+  font-family: Courier new;
+  background-color: #96ff80 !important;
+}
+
+#wrap {
+  width: 100%;
+  height: 50px;
+  z-index: 99;
+  position: fixed;
+  background-color: #00b536;
+}
+
+.navbar {
+  height: 50px;
+  padding: 0;
+  margin: 0;
+  float: left;
+  position: sticky;
+}
+
+.navbar li {
+  height: auto;
+  width: 135.8px;
+  float: left;
+  text-align: center;
+  list-style: none;
+  font: normal bold 13px/1em Arial, Verdana, Helvetica;
+  padding: 0;
+  background-color: inherit;
+}
+
+.navbar a {
+  padding: 18px 0;
+  text-decoration: none;
+  color: white;
+  display: block;
+}
+
+.navbar li ul {
+  display: none;
+  height: auto;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar li:hover ul {
+  display: block;
+}
+
+.navbar li ul li {
+  background-color: inherit;
+}
+
+a:hover{
+    color: #55f7ff;
+}
+  
+.wrapper{
+  position: absolute;
+  bottom: 110px;
+  left: 50px;
+  max-width: 365px;
+  background: #fff;
+  padding: 25px 25px 30px 25px;
+  border-radius: 15px;
+  box-shadow: 1px 7px 14px -5px rgba(0,0,0,0.15);
+  text-align: center;
+}
+
+.wrapper.hide{
+  opacity: 0;
+  pointer-events: none;
+  transform: scale(0.8);
+  transition: all 0.3s ease;
+}
+
+::selection{
+  color: #fff;
+  background: #FCBA7F;
+}
+
+.wrapper img{
+  max-width: 90px;
+}
+
+.content header{
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.content{
+  margin-top: 10px;
+}
+
+.content p{
+  color: red;
+  margin: 5px 0 20px 0;
+}
+
+.content .buttons{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.buttons button{
+  padding: 10px 20px;
+  border: none;
+  outline: none;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 5px;
+  background: orangered;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.buttons button:hover{
+  transform: scale(1);
+}
+
+.buttons .item{
+  margin: 0 10px;
+}
+
+.buttons a{
+  color: blanchedalmond;
+}
+
+
+
+
+</style>
+</head>
+<body>
+
+  
+<div id="wrap">
+  <ul class="navbar">
+    <li>
+      <a href="https://weblinkchat.pq.lu/chat/login.php">Login</a>
+    </li>
+    <li>
+      <a href="https://weblinkchat.pq.lu/contact.php">Contact</a>
+    
+    </li>
+        <li>
+      <a href="https://weblinkchat.pq.lu/privacy.html">Privacy Policy</a>
+       </li>
+
+        <li><a href="https://drive.protonmail.com/urls/VX8EYD4ZT0#710dirUmaSDo">Download the app</a></li>
+      </div>
+<br><br>
+<div style="background-color: white"><br>
+<h1 style="text-align: right; margin-right: 100px; color: violet; margin-top: 2px; margin-bottom: 2px; font-family: courier new; font-size: 60px;">WEBLINKCHAT</h1>
+<br><i><h3 style="font-family: bradley hand, cursive; margin-top: 1px; text-align: right; margin-right: 100px; font-size: 30px;">One chat. All the world.</h3></i></div>
+
+ 
+  
+
+</div>
+<h1 style="font-size: 55px; color: white">WELCOME TO WEBLINKCHAT !</h1>
+<img src="chat/images/weblink.png" width="400px" height="400px" style="border-radius: 5px; float: left; margin-left: 30px "><br><br>
+<h1 style="width: 45%; text-align: left; margin-right: 30px; margin-left: 600px  ">Welcome to Weblinkchat ! In this chat, you can talk with people around the world.<a href="https://weblinkchat.pq.lu/chat/login.php">Login</a> or <a href="https://weblinkchat.pq.lu/chat/inscription.html">Register</a> after reading our <a href="https://weblinkchat.pq.lu/privacy.html">Privacy Policy</a>. You can <a href="https://drive.protonmail.com/urls/VX8EYD4ZT0#710dirUmaSDo">Download the app</a> for chat in an app. The subject may change at any time. Enjoy the chat in Weblinkchat ! </h1>
+</body></html>
+

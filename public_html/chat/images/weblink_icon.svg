@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="svg3304"
+   height="40"
+   width="40"
+   sodipodi:docname="Spherical_pano_icon.svg"
+   inkscape:export-filename="C:\Users\TheKing\Downloads\Spherical_pano_icon.png"
+   inkscape:export-xdpi="4915.2002"
+   inkscape:export-ydpi="4915.2002"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="12.710244"
+     inkscape:cx="18.489023"
+     inkscape:cy="15.696"
+     inkscape:window-width="1680"
+     inkscape:window-height="979"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs3306">
+    <linearGradient
+       id="linearGradient29353"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop29351" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata3309">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-4,-4)"
+     id="layer1"
+     style="stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none">
+    <path
+       id="path4048"
+       d="M 24,4 A 20,20 0 0 0 4,24 20,20 0 0 0 24,44 20,20 0 0 0 44,24 20,20 0 0 0 24,4 Z m 0,4 A 16,16 0 0 1 40,24 16,16 0 0 1 24,40 16,16 0 0 1 8,24 16,16 0 0 1 24,8 Z"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;opacity:1"
+       inkscape:export-filename="C:\Users\TheKing\Downloads\weblink_icon.png"
+       inkscape:export-xdpi="4915.2002"
+       inkscape:export-ydpi="4915.2002" />
+    <path
+       id="path5512"
+       d="m 10,34.25 c 8,-3 20,-3 28,0"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:2.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path5516"
+       d="m 7.968504,24 32.062992,0"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:2.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path5520"
+       d="M 20,7.5511811 C 15,18 15,31 20,41"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:2.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:2.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 10,13.75 c 8,3 20,3 28,0"
+       id="path6250" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:2.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 28,7.5511811 C 33,18 33,31 28,41"
+       id="path9156" />
+  </g>
+  <path
+     d="m 13.886933,24.71869 h 9.425242 c 0.682947,0 1.236583,-0.558475 1.236583,-1.247392 v -9.979124 c 0,-0.688917 -0.553636,-1.247394 -1.236583,-1.247394 H 6 c -0.6829464,0 -1.2365839,0.558477 -1.2365839,1.247394 v 9.979123 c 0,0.688918 0.5536375,1.247393 1.2365839,1.247393 0.6829465,0 1.2365839,0.558475 1.2365839,1.247389 v 3.758389 z M 6,9.75 h 17.312175 c 2.04884,0 3.709753,1.675428 3.709753,3.742174 v 9.979123 c 0,2.066746 -1.660913,3.742172 -3.709753,3.742172 h -8.60415 L 6.9871382,32.628 C 6.1713225,33.242002 4.762903,33.237279 4.7634161,32.210518 v -4.997049 c -1.3658929,0 -2.473168,-1.116951 -2.473168,-2.494779 V 13.492174 C 2.2902481,11.425428 3.9511607,9.75 6,9.75 Z"
+     id="path2"
+     sodipodi:nodetypes="csssssssssccsssssccccsss"
+     inkscape:export-filename="C:\Users\TheKing\Downloads\path2.png"
+     inkscape:export-xdpi="8142.7144"
+     inkscape:export-ydpi="8142.7144"
+     style="fill:#61ff50;fill-opacity:1;stroke:#19c007;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:#61ff50;fill-opacity:1;stroke:#19c007;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect39851"
+     width="20.927999"
+     height="14.240481"
+     x="4.4845715"
+     y="11.801504" />
+  <ellipse
+     style="fill:#61ff50;fill-opacity:1;stroke:#19c007;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path40073"
+     ry="3.4617743"
+     rx="3.969697"
+     cy="26.907429"
+     cx="8.8904667" />
+  <text
+     xml:space="preserve"
+     style="font-size:5.33333px;line-height:1.25;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Normal';font-variant-ligatures:none"
+     x="4.5632486"
+     y="15.499309"
+     id="text43627"><tspan
+       sodipodi:role="line"
+       id="tspan43625"
+       x="4.5632486"
+       y="15.499309" /></text>
+  <g
+     id="g61881">
+    <text
+       xml:space="preserve"
+       style="font-size:5.33333px;line-height:1.25;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Normal';font-variant-ligatures:none"
+       x="3.8551579"
+       y="15.105926"
+       id="text52633"><tspan
+         sodipodi:role="line"
+         id="tspan52631"
+         x="3.8551579"
+         y="15.105926"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'">Weblink</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:3.33333px;line-height:1.25;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Normal';font-variant-ligatures:none"
+     x="3.6978045"
+     y="19.197113"
+     id="text71323"><tspan
+       sodipodi:role="line"
+       id="tspan71321"
+       x="3.6978045"
+       y="19.197113"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.33333px;font-family:'Tempus Sans ITC';-inkscape-font-specification:'Tempus Sans ITC'">One chat,</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:4.39932px;line-height:1.25;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Normal';font-variant-ligatures:none;fill:#000000;stroke-width:0.0978663;stroke-miterlimit:4;stroke-dasharray:none"
+     x="3.5888793"
+     y="20.921713"
+     id="text107243"
+     transform="scale(0.8559125,1.1683437)"><tspan
+       sodipodi:role="line"
+       id="tspan107241"
+       x="3.5888793"
+       y="20.921713"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.39932px;font-family:Rockwell;-inkscape-font-specification:Rockwell;fill:#000000;stroke-width:0.0978663;stroke-miterlimit:4;stroke-dasharray:none">All the <tspan
+   style="fill:#283ee3;fill-opacity:1;stroke:#0000ff;stroke-width:0.0978663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan132447">World</tspan></tspan></text>
+</svg>
